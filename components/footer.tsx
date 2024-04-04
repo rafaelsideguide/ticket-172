@@ -10,7 +10,9 @@ export default function Footer() {
       <MendableChatBubble
         anon_key="f6fb7f0e-e7ac-4b08-a531-da0ee6cd2cc1"
         style={style}
+        showSimpleSearch
       />
     </footer>
   );
 }
+
